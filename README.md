@@ -21,19 +21,22 @@ My experience includes enterprise data, ML and AI product leadership at **Sainsb
 
 **Applying AI to improve economically important business decisions.**
 
-#### [Decisions to Value — AI Analysis Assistants](https://github.com/Peter-Everill/6Ds)
+#### [6Ds — AI-Powered Decision Intelligence](https://github.com/Peter-Everill/6Ds)
 
-Five specialised Custom GPTs designed to operationalise the Decisions to Value methodology:
+Five specialised Custom GPTs designed to operationalise the 6Ds methodology, connecting business economics, decision architecture, causal analysis, root-cause diagnosis and intervention design.
 
-1. **Business Model Analyst** — Identifies economic value pools and priority decisions.
-2. **Decision Architect** — Defines decisions, processes, constraints and economic objectives.
-3. **Causal Decision Architecture Analyst** — Maps causal pathways and measurement requirements.
-4. **Decision Performance & Root Cause Analyst** — Analyses avoidable losses and root causes.
-5. **Decision Improvement Analyst** — Designs feasible interventions and evaluates potential value recovery.
+Demonstrates **context engineering, specialised AI assistant design, structured analytical outputs, handoff specifications and evidence-based guardrails**.
 
-**AI product capabilities demonstrated:** Context engineering, specialised assistant design, structured outputs, workflow handoffs, evidence-based reasoning and guardrails.
+*Documented Custom GPT implementation; automated orchestration and production deployment are not claimed.*
 
-*Implementation: Five documented Custom GPTs. Automated orchestration and production deployment are not claimed.*
+#### Enterprise Value Intelligence *(Concept / In Development)*
+
+Exploring AI-assisted identification, diagnosis and prioritisation of business value opportunities.
+
+#### Agentic Marketing Optimisation *(Concept / In Development)*
+
+Exploring AI-assisted marketing measurement, budget allocation and decision support.
+
 
 #### Enterprise Value Intelligence *(Concept / In Development)*
 
