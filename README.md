@@ -38,15 +38,6 @@ Exploring AI-assisted identification, diagnosis and prioritisation of business v
 Exploring AI-assisted marketing measurement, budget allocation and decision support.
 
 
-#### Enterprise Value Intelligence *(Concept / In Development)*
-
-Exploring AI-assisted identification, diagnosis and prioritisation of business value opportunities.
-
-#### Agentic Marketing Optimisation *(Concept / In Development)*
-
-Exploring AI-assisted marketing measurement, budget allocation and decision support.
-
-
 ### 2. Enterprise Case Studies
 
 **Evidence of enterprise-scale data and ML product leadership and measurable business outcomes.**
